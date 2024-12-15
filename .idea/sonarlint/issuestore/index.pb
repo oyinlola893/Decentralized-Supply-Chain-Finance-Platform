@@ -5,3 +5,5 @@ p
 @Decentralized-Supply-Chain-Finance-Platform/settings/Devnet.toml,b/1/b14320bf0c84b0ab2d6ecbaf746ffead7c4bd7c0
 O
 contracts/product-registry.clar,2/2/22d998c1cdeeb1da5339bad041d1d431d56b4b9b
+G
+contracts/tracking.clar,1/c/1cd34b241e3828371fa39dff59a20b9b28dcb38b
